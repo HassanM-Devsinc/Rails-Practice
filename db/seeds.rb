@@ -8,8 +8,13 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 
-Blog.create!(
-  title: "Rails Document",
-  content: "Hello. Let's play with Rails.",
-  author: "Hassan Murtaza"
+# Blog.create!(
+#   title: "Rails Document",
+#   content: "Hello. Let's play with Rails.",
+#   author: "Hassan Murtaza"
+# )
+
+User.create!(
+  name: "Abdul Hanan",
+  phoneNo: "03331111111",
 )
