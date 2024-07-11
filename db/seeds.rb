@@ -14,7 +14,7 @@
 #   author: "Hassan Murtaza"
 # )
 
-User.create!(
-  name: "Abdul Hanan",
-  phoneNo: "03331111111",
-)
+# User.create!(
+#   name: "Abdul Hanan",
+#   phoneNo: "03331111111",
+# )
